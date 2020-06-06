@@ -26,12 +26,8 @@ Let's reorganize our project code into components. There is one file `src\app\ap
 
 
 ### Components to make (create in order)
-* DateTime
-* MessagePreview
-* TaskItem
-* TopNav
-* SideNav
-* Comments
+
+
 * Tasks
 * Orders
 * Tickets

@@ -6,6 +6,8 @@ import { DateTimeComponent } from './date-time/date-time.component';
 import { MessagePreviewComponent } from './message-preview/message-preview.component';
 import { TaskItemComponent } from './task-item/task-item.component';
 import { TopNavComponent } from './top-nav/top-nav.component';
+import { SideNavComponent } from './side-nav/side-nav.component';
+import { CommentsComponent } from './comments/comments.component';
 
 @NgModule({
   declarations: [
@@ -13,7 +15,9 @@ import { TopNavComponent } from './top-nav/top-nav.component';
     DateTimeComponent,
     MessagePreviewComponent,
     TaskItemComponent,
-    TopNavComponent
+    TopNavComponent,
+    SideNavComponent,
+    CommentsComponent
   ],
   imports: [
     BrowserModule
