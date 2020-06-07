@@ -28,14 +28,6 @@ Let's reorganize our project code into components. There is one file `src\app\ap
 ### Components to make (create in order)
 
 
-* Tasks
-* Orders
-* Tickets
-* AreaChart
-* DonutChart
-* TasksPanel
-* TransactionsPanel
-* Dashboard
 
 ### Use components where appropriate
 * Wherever you cut out the html, you need to replace it with the tag of the component
