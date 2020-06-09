@@ -7,11 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class MessagePreviewComponent implements OnInit {
 
-  @input() message
-  
+  @Input() message;
+    
   constructor() { }
 
   ngOnInit() {
+  
   }
 
 }
